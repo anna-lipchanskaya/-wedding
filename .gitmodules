@@ -1,0 +1,3 @@
+[submodule "option2"]
+	path = option2
+	url = git@github.com:anna-lipchanskaya/option2.git
